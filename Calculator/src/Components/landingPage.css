@@ -1,0 +1,72 @@
+.container{
+    margin-top: 200px;
+    margin-left: 650px;
+    background-color: rgb(46, 45, 45);
+    height:420px;
+    width:250px;
+    border-radius: 25px;
+}
+h4{
+    position: relative;
+    top: 15px;
+}
+.input{
+    height:80px;
+    width:225px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(46, 45, 45);
+}
+.cancel{
+    color: white;
+    margin: 3px;
+    height: 40px;
+    width: 100px;
+    border-radius: 17px;
+    border: none;
+    background-color: rgb(33, 33, 33);
+}
+.numbers{
+    color: white;
+    height: 60px;
+    width: 50px;
+    border: none;
+    background-color: rgb(46, 45, 45);
+}
+.divide{
+    background-color:orange;
+    margin:4px;
+    width:30px;
+    height:40px;
+    color:black;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.add{
+    background-color:orange;
+    border-radius: 20px; 
+    margin:4px;
+    width:30px;
+    height:40px;
+    border: none;
+    color:black;
+}
+.equal{
+    width:70px;
+    height:40px;
+    border: none;
+    background-color:rgb(236, 61, 181);
+    border-radius: 20px;
+    margin-left: 70px;
+}
+.zero{
+    color:white;
+    width:80px;
+    height:40px;
+    background-color: rgb(46, 45, 45);
+    border: none;
+    border-radius: 20px;
+    padding-left: 69px;
+}
